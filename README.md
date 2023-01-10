@@ -4,7 +4,7 @@ A collection of eye re-colours for Jesse Faden
 **INSTALLATION**
 
 1) You will NEED Loose File Loader (https://www.nexusmods.com/control/mods/11) in order to install these mods.
-2) Unzip the folder then pick the outfit and colour you desire, and copy and paste data_pc into your Control game folder.
+2) Unzip the folder then pick the outfit and colour you desire, and copy and paste `data_pc` into your Control game folder.
 
 `C:\Epic Games\Control`
 `C:\SteamLibrary\steamapps\common\Control`
