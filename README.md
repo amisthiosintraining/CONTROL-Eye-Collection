@@ -14,14 +14,13 @@ A collection of eye re-colours for Jesse Faden
 4) Changes should be applied, from there boot up your game and enjoy.
 
 `C:\Epic Games\Control`
-`C:\SteamLibrary\steamapps\common\Control`
+<br>`C:\SteamLibrary\steamapps\common\Control`
 
 **UNINSTALLATION**
-
-Go to where you installed the mod either C: or D: or wherever you have your game installed.
+<br>Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`
-Example: `C:\SteamLibrary\steamapps\common\Control\data_pc`
+<br>Example: `C:\SteamLibrary\steamapps\common\Control\data_pc`
 
 Delete the following:
 
